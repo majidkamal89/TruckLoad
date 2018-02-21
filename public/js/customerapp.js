@@ -1,0 +1,1 @@
+var myApp = angular.module('customerApp', ['customerController','customerService','angularUtils.directives.dirPagination']);

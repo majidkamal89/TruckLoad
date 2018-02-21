@@ -1,0 +1,1 @@
+var myApp = angular.module('companyApp', ['companyController', 'companyService', 'angularUtils.directives.dirPagination', 'ngFileUpload']);
